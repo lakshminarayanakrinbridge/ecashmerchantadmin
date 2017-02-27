@@ -1,4 +1,4 @@
-package www.inbridge.com.ecashadminmerchant.UtilityClass;
+package www.inbridge.com.ecashadminmerchant.utilities;
 
 /**
  * Created by USER on 2/25/2017.

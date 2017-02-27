@@ -1,4 +1,4 @@
-package www.inbridge.com.ecashadminmerchant.Fragments;
+package www.inbridge.com.ecashadminmerchant.fragments;
 
 import android.content.Context;
 import android.net.Uri;

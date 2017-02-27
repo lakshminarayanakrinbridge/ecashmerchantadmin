@@ -8,18 +8,18 @@
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".Activities.LoginActivity">
+        <activity android:name=".activities.LoginActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".Activities.SignupActivity" />
-        <activity android:name=".Activities.OtpActivity" />
-        <activity android:name=".Activities.MerchantRegistrationActivity" />
-        <activity android:name=".Activities.AdminActivity" />
-        <activity android:name=".Activities.MerchantActivity"></activity>
+        <activity android:name=".activities.SignupActivity" />
+        <activity android:name=".activities.OtpActivity" />
+        <activity android:name=".activities.MerchantRegistrationActivity" />
+        <activity android:name=".activities.AdminActivity" />
+        <activity android:name=".activities.MerchantActivity"></activity>
     </application>
 
 </manifest>
